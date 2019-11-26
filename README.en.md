@@ -1,4 +1,4 @@
-# PhotoBroswer
+# CoreData
 [中文](https://github.com/dzp181/CoreData/blob/master/README.md)
 
 * CWCoreData: Extensions and utilities that facilitate the development of the CoreData framework in a concurrent environment. [Official Website](https://github.com/jayway/CWCoreData)
