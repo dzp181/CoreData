@@ -1,4 +1,6 @@
 # CoreData
+[en](https://github.com/dzp181/CoreData/blob/master/README.en.md)
+
 *   CWCoreData：方便并发环境下 CoreData 框架开发的扩展与实用工具。[官网](https://github.com/jayway/CWCoreData)
 *   [ObjectiveRecord](http://hao.jobbole.com/objectiverecord/)：ActiveRecord 的 Objective-C 版本。[官网](https://github.com/supermarin/ObjectiveRecord)
 *   [SSDataKit](http://hao.jobbole.com/ssdatakit/)：消除使用 CoreData 产生的样板代码。[官网](https://github.com/soffes/SSDataKit)

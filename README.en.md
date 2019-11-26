@@ -1,0 +1,16 @@
+# PhotoBroswer
+[中文](https://github.com/dzp181/CoreData/blob/master/README.md)
+
+* CWCoreData: Extensions and utilities that facilitate the development of the CoreData framework in a concurrent environment. [Official Website](https://github.com/jayway/CWCoreData)
+* [ObjectiveRecord](http://hao.jobbole.com/objectiverecord/): Objective-C version of ActiveRecord. [Official Website](https://github.com/supermarin/ObjectiveRecord)
+* SSDataKit: Eliminate boilerplate code generated using CoreData. [Official Website](https://github.com/soffes/SSDataKit)
+* ios-queryable: ios-queryable is a CoreData-based IQueryable / IEnumerable implementation. [Official Website](https://github.com/martydill/ios-queryable)
+* ReactiveCoreData: ReactiveCoreData (RCD) is an attempt to bring CoreData into the ReactiveCocoa world. [Official Website](https://github.com/apparentsoft/ReactiveCoreData)
+* Ensembles : A CoreData synchronization framework. [Official Website](https://github.com/drewmccormack/ensembles)
+* SLRESTfulCoreData: According to Objc naming convention, accessors, URL substitution and intelligent attribute mapping are automatically generated at runtime. [Official Website](https://github.com/OliverLetterer/SLRESTfulCoreData)
+* Mogenerator: Automatically generates CoreData code. [Official Website](https://github.com/rentzsch/mogenerator)
+* HardCoreData: CoreData stack and controller that will not block the UI thread. [Official Website](https://github.com/Krivoblotsky/HardCoreData)
+* encrypted-core-data: Use SQLClipher to encrypt CoreData's SQLite storage. [Official Website](https://github.com/project-imas/encrypted-core-data)
+* MagicalRecord: Excellent CoreData convenient access framework. [Official Website](https://github.com/magicalpanda/MagicalRecord)
+* QueryKit: a concise type-safe CoreData query language ★ [Official Website](https://github.com/QueryKit/QueryKit)
+* CoreStore: A powerful CoreData framework that solves problems such as incremental migration, acquisition, and observation. ★ [Official Website](https://github.com/JohnEstropia/CoreStore)
